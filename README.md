@@ -1,6 +1,10 @@
 # firebase_login_app
 
-A new Flutter project.
+Uygulama ekran görüntüleri: <br>
+![Ekran görüntüsü 1](https://github.com/kubranurdogann/flutter-login-app/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%201.png)
+![Ekran görüntüsü 2](https://github.com/kubranurdogann/flutter-login-app/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202.png)
+![Ekran görüntüsü 3](https://github.com/kubranurdogann/flutter-login-app/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%203.png)
+
 
 ## Getting Started
 
